@@ -19,10 +19,10 @@ description:
 Group Members: 1(myself)
 
 ## GUI MOCK UP #1
-![Title](URL)
+![Breakout look 1](https://github.com/AlexZ0d/Tycoon/blob/main/images/Drawing%20(4)-1.png)
 ## GUI MOCK UP #2
-![Title](URL)
+![Breakout look 2](https://github.com/AlexZ0d/Tycoon/blob/main/images/Drawing%20(3)-1.png)
 ## GUI MOCK UP #3
-![Title](URL)
+![Breakout look 3](https://github.com/AlexZ0d/Tycoon/blob/main/images/Drawing%20(2)-1.png)
 ## Class Diagram #1
 ![Class Diagram](URL)
