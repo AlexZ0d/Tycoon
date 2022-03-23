@@ -6,7 +6,7 @@ Group Members: 1(myself)
 ## GUI MOCK UP #1
 ![Tycoon look 1](https://github.com/AlexZ0d/Tycoon/blob/main/images/Tycoon-1.png)
 ## GUI MOCK UP #2
-![Title](URL)
+![Tycoon look 2](https://github.com/AlexZ0d/Tycoon/blob/main/images/Tycoon%202-1.png)
 ## GUI MOCK UP #3
 ![Title](URL)
 ## Class Diagram #1
