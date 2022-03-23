@@ -4,7 +4,7 @@ description:
 Group Members: 1(myself)
 
 ## GUI MOCK UP #1
-![Tycoon look 1](https://github.com/AlexZ0d/Tycoon/blob/main/images/Tycoon.pdf)
+![Tycoon look 1](https://github.com/AlexZ0d/Tycoon/blob/main/images/Tycoon.pdf?raw=true)
 ## GUI MOCK UP #2
 ![Title](URL)
 ## GUI MOCK UP #3
