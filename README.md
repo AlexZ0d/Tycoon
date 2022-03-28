@@ -10,6 +10,7 @@ Group Members: 1(myself)
 ## GUI MOCK UP #3
 ![Tycoon look 3](https://github.com/AlexZ0d/Tycoon/blob/main/images/Tycoon%201-1.png)
 ## Class Diagram #1
+Not Finished:
 ![Tycoon Diagram](https://github.com/AlexZ0d/Tycoon/blob/main/images/TycoonTheme.png)
 
 
@@ -25,4 +26,5 @@ Group Members: 1(myself)
 ## GUI MOCK UP #3
 ![Breakout look 3](https://github.com/AlexZ0d/Tycoon/blob/main/images/Drawing%20(2)-1.png)
 ## Class Diagram #1
-![Class Diagram](URL)
+Not Finished:
+![Breakout Diagram](https://github.com/AlexZ0d/Tycoon/blob/main/images/Screenshot%202022-03-28%208.38.37%20AM.png)
