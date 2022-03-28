@@ -10,7 +10,7 @@ Group Members: 1(myself)
 ## GUI MOCK UP #3
 ![Tycoon look 3](https://github.com/AlexZ0d/Tycoon/blob/main/images/Tycoon%201-1.png)
 ## Class Diagram #1
-![Class Diagram](URL)
+![Tycoon Diagram](https://github.com/AlexZ0d/Tycoon/blob/main/images/TycoonTheme.png)
 
 
 -------------------------------------
