@@ -30,3 +30,4 @@ Not Finished:
 ![Breakout Diagram](https://github.com/AlexZ0d/Tycoon/blob/main/images/Screenshot%202022-03-28%208.38.37%20AM.png)
 ## Screens
 ![Quit Screen](https://github.com/AlexZ0d/Tycoon/blob/main/images/Quit.png)
+![Start Screen](https://github.com/AlexZ0d/Tycoon/blob/main/images/Start.png)
