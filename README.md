@@ -28,3 +28,5 @@ Group Members: 1(myself)
 ## Class Diagram #1
 Not Finished:
 ![Breakout Diagram](https://github.com/AlexZ0d/Tycoon/blob/main/images/Screenshot%202022-03-28%208.38.37%20AM.png)
+## Start Screen 
+![]()
